@@ -6,7 +6,7 @@
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=interca&layout=compact&theme=dark)](https://github.com/JimouChen/github-readme-stats) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=interca&hide_border=true&layout=compact&theme=radical&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=interca&hide_border=true&layout=compact&theme=radical&langs_count=5)
 
 
 ![](https://img.shields.io/badge/Go-v1.17-blue?style=for-the-badge&logo=go&logoColor=white)
