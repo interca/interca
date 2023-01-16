@@ -1,4 +1,4 @@
-## Hello World 👋  
+## Hi 👋 I'm interca  
 
 ![Neaya's Github Stats](https://github-readme-stats.vercel.app/api?username=interca&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
