@@ -6,6 +6,8 @@
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=interca&layout=compact&theme=dark)](https://github.com/JimouChen/github-readme-stats) -->
 
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=interca&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=interca&hide_border=true&layout=compact&theme=radical&langs_count=5)
 
 
