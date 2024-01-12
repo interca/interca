@@ -1,4 +1,9 @@
-## Hi 👋 I'm interca  
+### ✨ ✨ 
+
+- 👋 I'm interca  
+- 🔭 I’m currently working on heybox
+- 🌱 I’m currently learning dgut
+- 🤔 I‘m engaged in python, java, go development
 
 ![Neaya's Github Stats](https://github-readme-stats.vercel.app/api?username=interca&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
@@ -17,19 +22,6 @@
 ![](https://img.shields.io/badge/Java-009acd?style=for-the-badge&logo=java&logoColor=blue)
 
 -- --
-
-
-### ✨ ✨ 
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning dgut
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 # skills 
 <table><tr><td valign="top" width="33%">
