@@ -6,22 +6,6 @@
 - 🤔 I master Java, Golang, Python development
 - 📫 My blog is https://interca.github.io/
 
-![Neaya's Github Stats](https://github-readme-stats.vercel.app/api?username=interca&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-
-
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=interca&layout=compact&theme=dark)](https://github.com/JimouChen/github-readme-stats) -->
-
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=interca&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=interca&hide_border=true&layout=compact&theme=radical&langs_count=5)
-
-
-![](https://img.shields.io/badge/Go-v1.17-blue?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/C++-dark?style=for-the-badge&logo=cplusplus&logoColor=dark)
-![](https://img.shields.io/badge/Docker-009acd?style=for-the-badge&logo=docker&logoColor=dark)
-![](https://img.shields.io/badge/Java-009acd?style=for-the-badge&logo=java&logoColor=blue)
-
 -- --
 
 # skills 
@@ -61,6 +45,23 @@
 </td></tr></table>  
 
 -- --
+
+![Neaya's Github Stats](https://github-readme-stats.vercel.app/api?username=interca&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+
+
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=interca&layout=compact&theme=dark)](https://github.com/JimouChen/github-readme-stats) -->
+
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=interca&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=interca&hide_border=true&layout=compact&theme=radical&langs_count=5)
+
+
+![](https://img.shields.io/badge/Go-v1.17-blue?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/C++-dark?style=for-the-badge&logo=cplusplus&logoColor=dark)
+![](https://img.shields.io/badge/Docker-009acd?style=for-the-badge&logo=docker&logoColor=dark)
+![](https://img.shields.io/badge/Java-009acd?style=for-the-badge&logo=java&logoColor=blue)
+
 ### Visitor Count
 
 
