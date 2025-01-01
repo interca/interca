@@ -2,7 +2,7 @@
 
 - 👋 I'm hongshen
 - 🔭 I'm a backend development engineer and currently working on kuaishou
-- 🌱 I’m currently learning dgut
+- 🌱 I’m currently learning in dgut
 - 🤔 I master Java, Golang, Python development
 - 📫 My blog is https://interca.github.io/
 
